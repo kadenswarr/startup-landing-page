@@ -1,0 +1,30 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  font-family: sans-serif;
+  background: url(DIA.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+
+h1 {
+  color: #b945c4;
+}
+
+.btn {
+  border-radius: 300px;
+  border-width: 5px;
+}
+
+.btn-primary {
+  background-color: #ff8300;
+  border-color: #ff8300;
+}
+
+.btn-primary:hover {
+  background-color: #ff8300;
+  border: 2px;
+}
+
+.buffer{
+  height: 100px;
+}
